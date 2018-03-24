@@ -6,3 +6,5 @@ This template uses Unity’s built in rendering pipeline and contain no content 
 
 Package Name: com.unity.template.3dempty
 Package Version: 0.0.2
+
+Tutorial: https://docs.microsoft.com/en-us/azure/mobile-engagement/mobile-engagement-unity-roll-a-ball
